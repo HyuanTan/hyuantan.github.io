@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://github.com/HyuanTan/huoyuantan.github.io/al-folio/sitemap.xml
