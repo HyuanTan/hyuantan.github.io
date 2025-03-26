@@ -106,7 +106,7 @@
     {
       "name": "Self-Unloading Forklift",
       "summary": "This project was to develop an intelligent self-unloading forklift by integrating forklifts, roadside units, and cloud service for automatically unloading goods from trucks at a highly efficient and lower cost.",
-      "highlights": ["Model Predictive Control(MPC)", "Radars, Cameras Confusions"],
+      "highlights": ["Model Predictive Control(MPC)", "LADARs"],
       "startDate": "2021-11",
       "endDate": "2022-10",
       "url": ""
