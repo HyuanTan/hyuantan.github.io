@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Huoyuan Tan, a first-year Master's student in Computer Science and Engineering at the IT Faculty of the University of Gothenburg. I hold a Bachelor's degree in Medical Information Engineering, during which I worked with my supervisor to analyze data collected from biological IoT devices using machine learning.
+Hi, I'm Huoyuan Tan, a first-year Master's student in Computer Science and Engineering at the IT Faculty of the University of Gothenburg. I hold a Bachelor's degree in Medical Information Engineering and under the supervision of my advisor, I participated in the analysis of data collected from biological IoT devices using machine learning.
 
 After graduation, I worked as an algorithm engineer at an autonomous driving company, where I developed algorithms related to industrial autonomous systems, including SLAM, perception, path planning, and control.
 
