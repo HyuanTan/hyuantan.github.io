@@ -79,6 +79,13 @@ jobs:
         with:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
+
+      - name: Install Jupyter
+        run: |
+          pip install notebook
+          pip install jupyter
+          echo "$(python3 -m site --user-base)/bin" >> $GITHUB_PATH
+          
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -87,9 +94,6 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
           
-      - name: Install Jupyter
-        run: pip install notebook
-        echo "$(python3 -m site --user-base)/bin" >> $GITHUB_PATH
 
       - name: Install and Build 🔧
         run: |
