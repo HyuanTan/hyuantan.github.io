@@ -97,7 +97,7 @@
     {
       "name": "The intelligent home system based on pyroelectric infrared sensors",
       "summary": "This project aimed to design a device for simultaneous indoor tracking and abnormal activity detection for the elderly to get timely assistance when they get ill or hurt in their houses.",
-      "highlights": ["Pyroelectric Infrared Sensor", "Abnormal Activity Detection", "Indoor Tracking", "WWireless Sensor Network", "One-Class Support Vector Machines (OSVMs)", "Random Forest"],
+      "highlights": ["Pyroelectric Infrared Sensor", "Abnormal Activity Detection", "Indoor Tracking", "Wireless Sensor Network", "One-Class Support Vector Machines (OSVMs)", "Random Forest"],
       "startDate": "2015-06",
       "endDate": "2017-02",
       "url": ""
