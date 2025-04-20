@@ -29,6 +29,6 @@ latest_posts:
 
 Hi, I'm Huoyuan Tan, a first-year Master's student in Computer Science and Engineering at the IT Faculty of the University of Gothenburg. I hold a Bachelor's degree in Medical Information Engineering and under the supervision of my advisor, I participated in the analysis of data collected from biological IoT devices using machine learning.
 
-After graduation, I worked as an algorithm engineer at an autonomous driving company, where I developed algorithms related to industrial autonomous systems, including SLAM, perception, path planning, and control.
+After graduation, I worked as an algorithm engineer at an autonomous driving company, [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I developed algorithms related to industrial autonomous systems, including SLAM, perception, path planning, and control.
 
-My research interests lie in robotics, machine learning, and large language models (LLMs). I have hands-on experience with C++, Python, and Linux, and I'm eager to continue improving my skills through real-world projects. I am currently seeking internship opportunities in the fields of robotics, machine learning, or natural language processing (NLP).
+My research interests lie in **robotics, machine learning, and large language models (LLMs)**. I have hands-on experience with C++, Python, and Linux, and I'm eager to continue improving my skills through real-world projects. I am currently seeking internship opportunities in the fields of robotics, machine learning, or natural language processing (NLP).
