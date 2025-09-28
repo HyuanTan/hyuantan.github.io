@@ -3,10 +3,7 @@
     "name": "Tan Huoyuan",
     "label": "",
     "image": "",
-    "email": "tanhuoyuan@gmail.com",
-    "phone": "",
-    "url": "https://hyuantan.github.io",
-    "summary": ""
+    "email": "tanhuoyuan@gmail.com"
   },
   "work": [
     {
@@ -104,8 +101,8 @@
     },
 
     {
-      "name": "Self-Unloading Forklift",
-      "summary": "This project was to develop an intelligent self-unloading forklift by integrating forklifts, roadside units, and cloud service for automatically unloading goods from trucks at a highly efficient and lower cost.",
+      "name": "Autonomous Forklift",
+      "summary": "This project was to develop an intelligent Autonomous forklift by integrating forklifts, roadside units, and cloud service for automatically unloading goods from trucks at a highly efficient and lower cost.",
       "highlights": ["Model Predictive Control(MPC)", "LADARs"],
       "startDate": "2021-11",
       "endDate": "2022-10",
