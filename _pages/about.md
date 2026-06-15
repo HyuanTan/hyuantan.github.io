@@ -2,16 +2,15 @@
 layout: about
 title: Home
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Master's Student in Computer Science & Engineering · <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  more_info: >
+    <p><i class="fa-solid fa-location-dot"></i> Gothenburg, Sweden</p>
+    <p><i class="fa-solid fa-envelope"></i> tanhuoyuan@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Huoyuan Tan, a second-year Master's student in Computer Science and Engineering at the IT Faculty of the University of Gothenburg. I have my Bachelor's degree in Medical Information Engineering and under the supervision of my advisor, I participated in the analysis of data collected from biological IoT devices using machine learning.
+I am Huoyuan Tan, a Master's student in Computer Science and Engineering at the [University of Gothenburg](https://www.gu.se), with **5+ years** of industry experience as an Algorithm Engineer in autonomous driving. My M.Sc. thesis focuses on *Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*.
 
-After graduation, I worked as an algorithm engineer at an autonomous driving company, [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I developed algorithms related to industrial autonomous systems, including SLAM, perception, path planning, and control.
+Prior to graduate school, I worked at [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I played a key role in bringing autonomous driving systems — Automated Guided Vehicles (AGV), Autonomous Forklifts, and Intelligent Guided Vehicles (IGV) — from prototype to production deployment in ports and factory environments. My work spanned **multi-sensor fusion** (LiDAR, camera, GNSS/RTK, IMU), localization & SLAM, perception, motion planning, and control on ROS/C++.
 
-My research interests lie in **Autonomous Driving, Vision-Language-Action mode(VLA), Large Language Models(LLMs) and Reinforcement Learning**. I have hands-on experience with C++, Python, and Linux, and I am passionate about technology and motivated by the belief that technology can enhance people's well-being, reduce emissions, and contribute to a more sustainable future. I am currently seeking opportunities in the fields of robotics, autonomous driving and LLMs.
+My research interests lie at the intersection of **Autonomous Driving, Vision-Language-Action (VLA) Models, Large Language Models (LLMs), and Reinforcement Learning**. I am passionate about building intelligent systems that are robust in the real world, and I am actively seeking opportunities in robotics, autonomous driving, and machine learning engineering.

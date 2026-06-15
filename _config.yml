@@ -7,15 +7,15 @@ first_name: Huoyuan
 # middle_name: R.
 last_name: Tan
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out via email or connect with me on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal academic website of Huoyuan Tan, Master's student in Computer Science and Engineering at the University of Gothenburg, with research interests in Autonomous Driving, VLA Models, LLMs, and Reinforcement Learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-keywords: C++, Python / Robotics (ROS, SLAM etc.) / Linux (Terminal Commands, Bash/Shell) / Maching Learning and Deep Learning
+keywords: C++, Python / Robotics (ROS, SLAM etc.) / Linux (Terminal Commands, Bash/Shell) / Machine Learning and Deep Learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: page_logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -89,8 +89,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Huoyuan's Blog # blog_name will be displayed in your blog page
+blog_description: Thoughts on robotics, autonomous driving, and machine learning
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -118,19 +118,13 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -266,8 +260,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tan]
+  first_name: [Huoyuan]
 
   style: apa
   locale: en
