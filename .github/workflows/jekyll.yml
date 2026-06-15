@@ -1,29 +1,28 @@
-name: Deploy to GitHub Pages
+# This workflow is disabled in favour of deploy.yml (the official al-folio workflow).
+# deploy.yml already handles checkout, build, and deployment with up-to-date action versions.
+
+name: Deploy to GitHub Pages (disabled)
 
 on:
-  push:
-    branches:
-      - main  # 或 main，取决于你的默认分支名
+  workflow_dispatch:   # manual trigger only — no longer runs on push
 
 jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1  # 适配 al-folio 的 ruby 版本
+          ruby-version: "3.3"
           bundler-cache: true
 
       - name: Install dependencies
-        run: |
-          bundle install
+        run: bundle install
 
       - name: Build site
-        run: |
-          bundle exec jekyll build
+        run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
