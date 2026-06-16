@@ -6,7 +6,7 @@
     "email": "tanhuoyuan@gmail.com",
     "phone": "+46-76 249 7727",
     "url": "https://hyuantan.github.io",
-    "summary": "Algorithm Engineer with 5+ years of industrial experience delivering production autonomous driving systems across perception, localization (SLAM), motion planning, and control for AMRs and IGVs in ports and logistics. Currently completing an M.Sc. in Computer Science and Engineering (University of Gothenburg, 2026) with a thesis on Vision-Language-Action (VLA) models.",
+    "summary": "Algorithm Engineer with 5+ years of industrial experience delivering production autonomous driving systems across perception, localization (SLAM), motion planning, and control for AMRs and IGVs in ports and logistics. M.Sc. in Computer Science and Engineering, University of Gothenburg (2026), with a thesis on Vision-Language-Action (VLA) models.",
     "location": {
       "city": "Gothenburg",
       "countryCode": "SE"
@@ -39,6 +39,7 @@
       "score": "",
       "courses": [
         "Thesis: Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment",
+        "Supervisor: Ze Zhang | Examiner: Ahmed Ali-Eldin Hassan | Thesis partner: Yajing Zhang",
         "Focus: Deep Learning and Machine Learning",
         "Selected courses: Deep Machine Learning, Advanced Topics in Machine Learning, Design of AI Systems, Computational Semantics, Discrete Optimization, Advanced Algorithms"
       ]
