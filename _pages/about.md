@@ -4,6 +4,10 @@ title: Home
 permalink: /
 subtitle: Master's Student in Computer Science & Engineering · <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>
 
+hero:
+  image: 9.jpg
+  quote: "Be what you wanna be"
+
 profile:
   align: right
   image: prof_pic.jpg

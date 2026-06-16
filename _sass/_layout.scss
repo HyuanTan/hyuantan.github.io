@@ -44,6 +44,59 @@ body.sticky-bottom-footer {
   }
 }
 
+// Hero Banner (about page)
+.hero-banner {
+  position: relative;
+  height: 300px;
+  // Full-bleed: break out of Bootstrap container
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50%);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  // Counter the container's mt-5 (3rem) so hero sits flush below the navbar
+  margin-top: -3rem;
+  margin-bottom: 2.5rem;
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.42);
+  }
+
+  .hero-content {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .hero-quote {
+    color: #fff;
+    font-size: 1.75rem;
+    font-style: italic;
+    font-weight: 300;
+    letter-spacing: 0.04em;
+    text-align: center;
+    margin: 0;
+    padding: 0 2rem;
+    max-width: 700px;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-banner {
+    height: 200px;
+
+    .hero-quote {
+      font-size: 1.2rem;
+    }
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************

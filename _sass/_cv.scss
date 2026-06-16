@@ -68,6 +68,40 @@ a.btncv:hover {
  * CV TIME_TABLE styles
  *****************************/
 
+/* Summary / area subtitle under job title or degree */
+p.cv-summary {
+  font-size: 0.875rem;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--global-text-color-light);
+  margin-top: 0.15rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Highlight / course bullet lists */
+ul.items {
+  padding-left: 1.25rem;
+  margin-top: 0.35rem;
+  margin-bottom: 0;
+  list-style-type: disc;
+
+  li {
+    font-size: 0.875rem;
+    line-height: 1.65;
+    margin-bottom: 0.25rem;
+    color: var(--global-text-color);
+
+    &::marker {
+      color: var(--global-theme-color);
+      font-size: 0.75rem;
+    }
+
+    span.item {
+      color: var(--global-text-color);
+    }
+  }
+}
+
 p.location {
   font-size: 0.7rem;
   white-space: nowrap;

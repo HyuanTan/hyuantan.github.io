@@ -1,11 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: Holly_cv.pdf # you can also use external links here
+cv_pdf: CV_intership_2025_v4_HuoyuanTan.pdf
 description: Curriculum Vitae
-toc:
-  sidebar: left
 ---
