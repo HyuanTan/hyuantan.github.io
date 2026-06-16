@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Master's Student in Computer Science & Engineering · <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>
+subtitle:
 
 hero:
   image: 9.jpg
@@ -32,7 +32,7 @@ latest_posts:
 
 I am Huoyuan Tan, a Master's student in Computer Science and Engineering at the [University of Gothenburg](https://www.gu.se), with **5+ years** of industry experience as an Algorithm Engineer in autonomous driving. My M.Sc. thesis focuses on *Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*.
 
-Prior to graduate school, I worked at [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I played a key role in bringing autonomous driving systems — Automated Guided Vehicles (AGV), Autonomous Forklifts, and Intelligent Guided Vehicles (IGV) — from prototype to production deployment in ports and factory environments. My work spanned **multi-sensor fusion** (LiDAR, camera, GNSS/RTK, IMU), localization & SLAM, perception, motion planning, and control on ROS/C++.
+Prior to graduate school, I worked at [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I played a key role in bringing autonomous driving systems — Automated Guided Vehicles (AGV), Autonomous Forklifts, and Intelligent Guided Vehicles (IGV) — from prototype to production deployment in ports and factory environments. My work spanned multi-sensor fusion (LiDAR, camera, GNSS/RTK, IMU), SLAM, perception, motion planning, and control.
 
 My research interests lie at the intersection of **Autonomous Driving**, **Embodied AI** (VLA models, World Models), **Large Language Models (LLMs)**, and **Reinforcement Learning**. I am passionate about building intelligent systems that are not only robust in the real world, but also **interpretable** and **human-centered** — systems that people can understand, trust, and safely collaborate with. I believe technology should augment human capability rather than replace human agency, and I am motivated by the opportunity to make autonomous systems that are safer, more transparent, and genuinely beneficial to society.
 
