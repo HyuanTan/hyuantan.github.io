@@ -40,7 +40,6 @@
       "courses": [
         "Thesis: Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment",
         "Supervisor: Ze Zhang | Examiner: Ahmed Ali-Eldin Hassan | Thesis partner: Yajing Zhang",
-        "Focus: Deep Learning and Machine Learning",
         "Selected courses: Deep Machine Learning, Advanced Topics in Machine Learning, Design of AI Systems, Computational Semantics, Discrete Optimization, Advanced Algorithms"
       ]
     },
@@ -168,7 +167,7 @@
   "projects": [
     {
       "name": "Intelligent Guided Vehicle (IGV) — Autonomous Port Truck (ART)",
-      "summary": "Developed multi-LiDAR calibration and multi-sensor fusion for LiDAR-based obstacle avoidance and localization, achieving a throughput of 35 containers/hour in port operation.",
+      "summary": "Developed multi-LiDAR calibration and multi-sensor fusion for LiDAR-based obstacle avoidance and localization.",
       "highlights": [
         "Multi-LiDAR calibration and sensor fusion (LiDAR, GNSS/RTK, IMU)",
         "Achieved 35 containers/hour throughput in real-world port deployment",
