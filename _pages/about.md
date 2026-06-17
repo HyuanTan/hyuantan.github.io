@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Huoyuan Tan, a robotics Algorithm Engineer with **5+ years** of industry experience in autonomous mobile robots. I recently completed my M.Sc. in Computer Science and Engineering at the [University of Gothenburg](https://www.gu.se), with a thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*, supervised by Ze Zhang, in collaboration with Yajing Zhang.
+I am Huoyuan Tan, a Robotics Algorithm Engineer with **5+ years** of industry experience in autonomous mobile robots. I recently completed my M.Sc. in Computer Science and Engineering at the [University of Gothenburg](https://www.gu.se), with a thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*, supervised by Ze Zhang, in collaboration with Yajing Zhang.
 
 Prior to graduate school, I worked at [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I played a key role in bringing autonomous driving systems — Automated Guided Vehicles (AGV), Autonomous Forklifts, and Intelligent Guided Vehicles (IGV) — from prototype to production deployment in ports and factory environments. My work spanned multi-sensor fusion (LiDAR, camera, GNSS/RTK, IMU), SLAM, perception, motion planning, and control.
 
