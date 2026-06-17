@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tan Huoyuan",
-    "label": "Algorithm Engineer & Developer",
+    "label": "Robotics Algorithm Engineer",
     "image": "",
     "email": "tanhuoyuan@gmail.com",
     "phone": "+46-76 249 7727",
     "url": "https://hyuantan.github.io",
-    "summary": "Algorithm Engineer with 5+ years of industrial experience delivering production autonomous mobile robotic systems (AMRs/AGVs) across perception, localization (SLAM), motion planning, and control for AGVs and IGVs in ports and logistics. M.Sc. in Computer Science and Engineering, University of Gothenburg (2026), with a thesis on Vision-Language-Action (VLA) models.",
+    "summary": "Robotics Algorithm Engineer with 5+ years of industrial experience delivering production autonomous mobile robotic systems (AMRs/AGVs) across perception, localization (SLAM), motion planning, and control for AGVs and IGVs in ports and logistics. M.Sc. in Computer Science and Engineering, University of Gothenburg (2026), with a thesis on Vision-Language-Action (VLA) models.",
     "location": {
       "city": "Gothenburg",
       "countryCode": "SE"
@@ -20,10 +20,10 @@
       "url": "http://arrive.ai",
       "startDate": "2017-02",
       "endDate": "2022-10",
-      "summary": "Key contributor to the development and productization of autonomous driving systems — Autonomous Forklift, AGV, and IGV — from prototype to real-world deployment in ports and factory environments.",
+      "summary": "Key contributor to the development and productization of autonomous mobile robotic systems — Autonomous Forklift, AGV, and IGV — from prototype to real-world deployment in ports and factory environments.",
       "highlights": [
         "Built core perception, SLAM, planning, and control modules with multi-sensor fusion pipelines (camera, LiDAR, GNSS/RTK, IMU) on ROS/C++, deployed on production fleets.",
-        "Collaborated cross-functionally across hardware, software, and operations teams; contributed to project management of multi-vehicle deployments."
+        "Drove end-to-end delivery — from algorithm design and system integration to on-site deployment and fleet tuning — across hardware, software, and operations teams."
       ]
     }
   ],
