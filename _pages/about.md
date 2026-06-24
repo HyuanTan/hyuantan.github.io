@@ -6,7 +6,7 @@ subtitle:
 
 hero:
   image: 9.jpg
-  quote: "Be what you wanna be"
+#  quote: "Be what you wanna be"
 
 profile:
   align: right
@@ -30,10 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Huoyuan Tan, a Robotics Algorithm Engineer with **5+ years** of industry experience in autonomous mobile robots. I recently completed my M.Sc. in Computer Science and Engineering at the [University of Gothenburg](https://www.gu.se), with a thesis on *Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*, supervised by Ze Zhang, in collaboration with Yajing Zhang.
+I am Huoyuan Tan, a Robotics Algorithm Engineer with **5+ years of industry experience** in autonomous mobile robot systems. I recently completed my M.Sc. in Computer Science and Engineering at the [University of Gothenburg](https://www.gu.se), with a thesis on *Assessment and Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*.
 
-Prior to graduate school, I worked at [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I played a key role in bringing autonomous driving systems — Automated Guided Vehicles (AGV), Autonomous Forklifts, and Intelligent Guided Vehicles (IGV) — from prototype to production deployment in ports and factory environments. My work spanned multi-sensor fusion (LiDAR, camera, GNSS/RTK, IMU), SLAM, perception, motion planning, and control.
+My background combines real-world autonomous robot deployment with recent research on remote VLA deployment, runtime monitoring, and failure recovery. Before graduate school, I worked at [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I developed and deployed autonomous mobile robots, automated guided vehicles, autonomous forklifts, and intelligent guided vehicles for logistics and automation tasks in ports and factories. My work involved multi-sensor fusion, SLAM, perception, planning, control, and ROS-based system implementation.
 
-My research interests lie at the intersection of **Autonomous Mobile Robotics**, **Embodied AI** (VLA models, World Models), **Large Language Models (LLMs)**, and **Reinforcement Learning**. I am passionate about building intelligent systems that are not only robust in the real world, but also **interpretable** and **human-centered** — systems that people can understand, trust, and safely collaborate with. I believe technology should augment human capability rather than replace human agency, and I am motivated by the opportunity to make autonomous systems that are safer, more transparent, and genuinely beneficial to society.
+My research interests lie in **autonomous mobile robotics**, and **embodied AI**, with a focus on interpretable robot behaviour, failure detection and recovery, and human-aware robot systems. I aim to build autonomous systems that are reliable in real-world environments, understandable to people, and safe to collaborate with.
 
-I am actively looking for **Algorithm Engineer** or **Research Engineer** positions at companies and research labs focused on autonomous driving, robotics, and embodied intelligence.
+I am currently seeking **Algorithm Engineer** or **Research Engineer** opportunities in autonomous mobile robotics, and embodied intelligence.
