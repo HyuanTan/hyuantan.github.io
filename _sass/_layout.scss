@@ -110,3 +110,39 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+// Home page section headings (news, latest posts, selected publications)
+.section-heading {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+// News table: compact, muted date column
+.news {
+  margin-bottom: 1rem;
+
+  table {
+    margin-bottom: 0;
+  }
+
+  th.news-date {
+    width: 7.5rem;
+    padding-left: 0;
+    white-space: nowrap;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--global-text-color-light);
+  }
+
+  td {
+    padding-bottom: 0.6rem;
+  }
+}

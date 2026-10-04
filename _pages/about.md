@@ -36,6 +36,6 @@ My research interests include **structured, interpretable, and experience-driven
 
 I hold an M.Sc. in Computer Science and Engineering from the [University of Gothenburg](https://www.gu.se/en). My master’s research focused on assessment and failure recovery in remote vision-language-action (VLA) deployment, combining real-world robot experiments with simulation-based evaluation.
 
-Before my master’s studies, I worked as a robotics algorithm engineer, gaining **over five years of industry experience** developing and deploying mobile robotic systems for logistics, factory, and port automation. My work covered multi-sensor fusion, SLAM, perception, planning, control, and ROS-based system development.
+Before my master’s studies, I worked as a robotics engineer, gaining **over five years of industry experience** developing and deploying mobile robotic systems for logistics, factory, and port automation. My work covered multi-sensor fusion, SLAM, perception, planning, control, and ROS-based system development.
 
 My background connects practical robot development and deployment with research on robot learning and reliable autonomous behavior.

@@ -4,7 +4,7 @@
     "label": "PhD Student in Robotics",
     "image": "",
     "email": "tanhuoyuan@gmail.com",
-    "phone": "+46-76 249 7727",
+    "phone": "-",
     "url": "https://hyuantan.github.io",
     "summary": "I am a PhD student at Chalmers University of Technology. My research interests include structured, interpretable, and experience-driven robot learning for resilient and adaptive behavior in collaborative robots. I hold an M.Sc. in Computer Science and Engineering from the University of Gothenburg and have over five years of industry experience developing and deploying autonomous mobile robotic systems for industrial automation.",
     "location": {
@@ -15,14 +15,14 @@
   "work": [
     {
       "name": "Xingyun Intelligence (Shenzhen) Technology Co., Ltd.",
-      "position": "Algorithm Engineer",
+      "position": "Robotics Engineer",
       "location": "Shenzhen, China",
       "url": "http://arrive.ai",
       "startDate": "2017-02",
       "endDate": "2022-10",
       "summary": "Developed and deployed algorithms for autonomous mobile robotic systems used in logistics, factory, and port automation.",
       "highlights": [
-        "Multi-sensor fusion (camera, LiDAR, GNSS/RTK, IMU), SLAM, perception, planning, control, and ROS-based system development in C++.",
+        "Multi-sensor fusion (camera, LiDAR, GNSS/RTK, IMU), SLAM, perception, planning, control, and ROS-based system development in C++/Python.",
         "Drove end-to-end delivery — from algorithm design and system integration to on-site deployment and fleet tuning — across hardware, software, and operations teams."
       ]
     }
@@ -37,7 +37,6 @@
       "startDate": "2026-10-01",
       "score": "",
       "courses": [
-        "CRAFT Lab",
         "Research focus: structured, interpretable, and experience-driven robot learning for resilient and adaptive behavior in collaborative robots"
       ]
     },
@@ -183,15 +182,6 @@
   ],
   "projects": [
     {
-      "name": "PhD Research — Resilient and Adaptive Collaborative Robots",
-      "summary": "Researching structured, interpretable, and experience-driven robot learning methods that enable collaborative robots to behave resiliently and adapt to new situations.",
-      "highlights": [
-        "CRAFT Lab, Division of Systems and Control, Chalmers University of Technology"
-      ],
-      "startDate": "2026-10",
-      "url": ""
-    },
-    {
       "name": "M.Sc. Thesis — Assessment and Failure Recovery in Remote VLA Deployment",
       "summary": "Built a pipeline for deploying Vision-Language-Action (VLA) models remotely, with runtime monitoring and failure recovery for robot manipulation.",
       "highlights": [
@@ -206,23 +196,23 @@
     },
     {
       "name": "Autonomous Forklift",
-      "summary": "Developed an autonomous forklift system integrating onboard sensing, roadside infrastructure, and cloud services for automated unloading of goods from trucks.",
+      "summary": "An autonomous forklift system integrating onboard sensing, roadside infrastructure, and cloud services for automated truck loading and unloading.",
       "highlights": [
-        "LiDAR–camera calibration and sensor fusion",
-        "MPC-based motion planning for precise navigation",
-        "Achieved 90–92% success rates in automated loading and unloading"
+        "Implemented LiDAR–camera calibration and sensor fusion.",
+        "Developed MPC-based motion planning for precise navigation.",
+        "Contributed to a system achieving 90–92% success rates in automated loading and unloading."
       ],
       "startDate": "2021-10",
       "endDate": "2022-10",
       "url": ""
     },
     {
-      "name": "Intelligent Guided Vehicle (IGV) — Autonomous Port Truck (ART)",
-      "summary": "Developed autonomous transport robots for container transportation and port automation.",
+      "name": "Intelligent Guided Vehicle (IGV) / Autonomous Port Truck (ART)",
+      "summary": "An autonomous transport system for container transportation and port automation.",
       "highlights": [
-        "Multi-LiDAR calibration and sensor fusion (LiDAR, GNSS/RTK, IMU)",
-        "Achieved 35 containers/hour throughput in real-world port deployment",
-        "Video: youtube.com/@yunxing-port/videos"
+        "Implemented multi-LiDAR calibration and sensor fusion for mapping, localization, and perception.",
+        "Developed a LiDAR-based perception and decision-making module for obstacle avoidance.",
+        "Contributed to real-world port deployment, with a reported throughput of 35 containers per hour."
       ],
       "startDate": "2020-10",
       "endDate": "2022-10",
@@ -230,10 +220,12 @@
     },
     {
       "name": "Automated Guided Vehicle (AGV)",
-      "summary": "Developed automated guided vehicles for material transportation in factories.",
+      "summary": "Automated guided vehicles for material transportation in factories.",
       "highlights": [
-        "LiDAR–IMU graph-based SLAM with loop closure",
-        "Deployed across indoor and outdoor factory environments"
+        "Developed LiDAR–IMU graph-based SLAM with loop closure.",
+        "Implemented a fast initial localization module.",
+        "Developed map updating and extension capabilities.",
+        "Deployed the navigation system in indoor and outdoor factory environments."
       ],
       "startDate": "2018-05",
       "endDate": "2020-05",

@@ -14,6 +14,7 @@ footer_text: >
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 keywords: C++, Python / Robotics (ROS, SLAM etc.) / Linux (Terminal Commands, Bash/Shell) / Machine Learning and Deep Learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+timezone: Europe/Stockholm # used when building the site; keeps post/news dates from shifting a day
 icon: page_logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hyuantan.github.io/ # the base hostname & protocol for your site
