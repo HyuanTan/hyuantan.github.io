@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-10-01 00:00:00+0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Joined the **CRAFT Lab** as a PhD student in the Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology. :tada:

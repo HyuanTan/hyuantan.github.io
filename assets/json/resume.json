@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Tan Huoyuan",
-    "label": "Robotics Algorithm Engineer",
+    "name": "Huoyuan Tan",
+    "label": "PhD Student in Robotics",
     "image": "",
     "email": "tanhuoyuan@gmail.com",
     "phone": "+46-76 249 7727",
     "url": "https://hyuantan.github.io",
-    "summary": "Robotics Algorithm Engineer with 5+ years of industrial experience delivering production autonomous mobile robotic systems (AMRs/AGVs) across perception, localization (SLAM), motion planning, and control for AGVs and IGVs in ports and logistics. M.Sc. in Computer Science and Engineering, University of Gothenburg (2026), with a thesis on Vision-Language-Action (VLA) models.",
+    "summary": "I am a PhD student at Chalmers University of Technology. My research interests include structured, interpretable, and experience-driven robot learning for resilient and adaptive behavior in collaborative robots. I hold an M.Sc. in Computer Science and Engineering from the University of Gothenburg and have over five years of industry experience developing and deploying autonomous mobile robotic systems for industrial automation.",
     "location": {
       "city": "Gothenburg",
       "countryCode": "SE"
@@ -20,14 +20,27 @@
       "url": "http://arrive.ai",
       "startDate": "2017-02",
       "endDate": "2022-10",
-      "summary": "Key contributor to the development and productization of autonomous mobile robotic systems — Autonomous Forklift, AGV, and IGV — from prototype to real-world deployment in ports and factory environments.",
+      "summary": "Developed and deployed algorithms for autonomous mobile robotic systems used in logistics, factory, and port automation.",
       "highlights": [
-        "Built core perception, SLAM, planning, and control modules with multi-sensor fusion pipelines (camera, LiDAR, GNSS/RTK, IMU) on ROS/C++, deployed on production fleets.",
+        "Multi-sensor fusion (camera, LiDAR, GNSS/RTK, IMU), SLAM, perception, planning, control, and ROS-based system development in C++.",
         "Drove end-to-end delivery — from algorithm design and system integration to on-site deployment and fleet tuning — across hardware, software, and operations teams."
       ]
     }
   ],
   "education": [
+    {
+      "institution": "Chalmers University of Technology",
+      "location": "Gothenburg, Sweden",
+      "url": "https://www.chalmers.se",
+      "area": "Division of Systems and Control, Department of Electrical Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2026-10-01",
+      "score": "",
+      "courses": [
+        "CRAFT Lab",
+        "Research focus: structured, interpretable, and experience-driven robot learning for resilient and adaptive behavior in collaborative robots"
+      ]
+    },
     {
       "institution": "University of Gothenburg",
       "location": "Gothenburg, Sweden",
@@ -35,7 +48,7 @@
       "area": "Computer Science and Engineering",
       "studyType": "M.Sc.",
       "startDate": "2024-09-01",
-      "endDate": "2026-06-30",
+      "endDate": "2026-06-12",
       "score": "",
       "courses": [
         "Thesis: Assessment & Failure Recovery in Remote Vision-Language-Action (VLA) Deployment",
@@ -157,29 +170,43 @@
   "interests": [
     {
       "name": "Sports",
-      "keywords": ["Badminton"]
+      "keywords": [
+        "Badminton"
+      ]
     },
     {
       "name": "Hobbies",
-      "keywords": ["Hobby robotics / DIY"]
+      "keywords": [
+        "Hobby robotics / DIY"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Intelligent Guided Vehicle (IGV) — Autonomous Port Truck (ART)",
-      "summary": "Developed multi-LiDAR calibration and multi-sensor fusion for LiDAR-based obstacle avoidance and localization.",
+      "name": "PhD Research — Resilient and Adaptive Collaborative Robots",
+      "summary": "Researching structured, interpretable, and experience-driven robot learning methods that enable collaborative robots to behave resiliently and adapt to new situations.",
       "highlights": [
-        "Multi-LiDAR calibration and sensor fusion (LiDAR, GNSS/RTK, IMU)",
-        "Achieved 35 containers/hour throughput in real-world port deployment",
-        "Video: youtube.com/@yunxing-port/videos"
+        "CRAFT Lab, Division of Systems and Control, Chalmers University of Technology"
       ],
-      "startDate": "2020-10",
-      "endDate": "2022-10",
-      "url": "https://www.youtube.com/@yunxing-port/videos"
+      "startDate": "2026-10",
+      "url": ""
+    },
+    {
+      "name": "M.Sc. Thesis — Assessment and Failure Recovery in Remote VLA Deployment",
+      "summary": "Built a pipeline for deploying Vision-Language-Action (VLA) models remotely, with runtime monitoring and failure recovery for robot manipulation.",
+      "highlights": [
+        "Remote deployment of VLA policies with robot-side execution",
+        "Runtime monitoring and assessment of task execution",
+        "Failure detection and recovery strategies",
+        "Evaluation in simulation and on a real robot"
+      ],
+      "startDate": "2025-11",
+      "endDate": "2026-06",
+      "url": ""
     },
     {
       "name": "Autonomous Forklift",
-      "summary": "Implemented LiDAR–camera calibration and MPC-based motion planning for accurate automated loading and unloading operations.",
+      "summary": "Developed an autonomous forklift system integrating onboard sensing, roadside infrastructure, and cloud services for automated unloading of goods from trucks.",
       "highlights": [
         "LiDAR–camera calibration and sensor fusion",
         "MPC-based motion planning for precise navigation",
@@ -190,8 +217,20 @@
       "url": ""
     },
     {
+      "name": "Intelligent Guided Vehicle (IGV) — Autonomous Port Truck (ART)",
+      "summary": "Developed autonomous transport robots for container transportation and port automation.",
+      "highlights": [
+        "Multi-LiDAR calibration and sensor fusion (LiDAR, GNSS/RTK, IMU)",
+        "Achieved 35 containers/hour throughput in real-world port deployment",
+        "Video: youtube.com/@yunxing-port/videos"
+      ],
+      "startDate": "2020-10",
+      "endDate": "2022-10",
+      "url": "https://www.youtube.com/@yunxing-port/videos"
+    },
+    {
       "name": "Automated Guided Vehicle (AGV)",
-      "summary": "Built a LiDAR–IMU SLAM system with loop closure for mapping, localization, and map extension in indoor and outdoor factory environments.",
+      "summary": "Developed automated guided vehicles for material transportation in factories.",
       "highlights": [
         "LiDAR–IMU graph-based SLAM with loop closure",
         "Deployed across indoor and outdoor factory environments"
@@ -202,7 +241,7 @@
     },
     {
       "name": "Indoor Activity Recognition with Pyroelectric Infrared Sensors",
-      "summary": "Research on simultaneous indoor tracking and abnormal activity detection for elderly assisted living, resulting in two publications in Sensors (MDPI).",
+      "summary": "Developed a PIR sensor-based system for indoor tracking and activity monitoring to support older adults living independently.",
       "highlights": [
         "Pyroelectric Infrared (PIR) sensor array with FOV modulation",
         "Two-layer Random Forest classifier for tracking and activity recognition",

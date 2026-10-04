@@ -4,13 +4,13 @@ title: Home
 permalink: /
 subtitle:
 
-hero:
-  image: 9.jpg
+# hero:
+#   image: 9.jpg
 #  quote: "Be what you wanna be"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><i class="fa-solid fa-location-dot"></i> Gothenburg, Sweden</p>
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -30,10 +30,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Huoyuan Tan, a Robotics Algorithm Engineer with **5+ years of industry experience** in autonomous mobile robot systems. I recently completed my M.Sc. in Computer Science and Engineering at the [University of Gothenburg](https://www.gu.se), with a thesis on *Assessment and Failure Recovery in Remote Vision-Language-Action (VLA) Deployment*.
+I am Huoyuan Tan, a PhD student in the Division of Systems and Control at the Department of Electrical Engineering, [Chalmers University of Technology](https://www.chalmers.se/en/), and a member of the [CRAFT lab](https://sites.google.com/view/craft-laboratory/home).
 
-My background combines real-world autonomous robot deployment with recent research on remote VLA deployment, runtime monitoring, and failure recovery. Before graduate school, I worked at [Xingyun Intelligence (Shenzhen) Technology Co., Ltd.](http://arrive.ai), where I developed and deployed autonomous mobile robots, automated guided vehicles, autonomous forklifts, and intelligent guided vehicles for logistics and automation tasks in ports and factories. My work involved multi-sensor fusion, SLAM, perception, planning, control, and ROS-based system implementation.
+My research interests include **structured, interpretable, and experience-driven robot learning**, with the aim of enabling **resilient and adaptive behavior in collaborative robots**. I am interested in connecting high-level reasoning with executable skills so that robots can learn from experience, adapt to changing environments, and collaborate effectively with humans.
 
-I work on **autonomous mobile robotics**, **embodied AI**, and **robot learning**, with a focus on real-world robot deployment and reliable robot behaviour. I am especially interested in **structured and interpretable robot intelligence**: using task-level reasoning and human intention understanding to guide robot behaviour, while enabling **experience-based adaptation**, **failure detection**, and **failure recovery** during execution. I care about building autonomous systems that are robust in physical environments, understandable to people, and safe for human–robot collaboration.
+I hold an M.Sc. in Computer Science and Engineering from the [University of Gothenburg](https://www.gu.se/en). My master’s research focused on assessment and failure recovery in remote vision-language-action (VLA) deployment, combining real-world robot experiments with simulation-based evaluation.
 
-I am currently seeking **Algorithm Engineer** or **Research Engineer** opportunities in autonomous mobile robotics, and embodied intelligence.
+Before my master’s studies, I worked as a robotics algorithm engineer, gaining **over five years of industry experience** developing and deploying mobile robotic systems for logistics, factory, and port automation. My work covered multi-sensor fusion, SLAM, perception, planning, control, and ROS-based system development.
+
+My background connects practical robot development and deployment with research on robot learning and reliable autonomous behavior.
